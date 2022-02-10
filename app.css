@@ -105,13 +105,16 @@ form{
 .submit_button{
   width: 90%;
   height: 40px;
-  font-size: larger;
-  font-weight: 500;
-  color: white;
   margin: 20px 20px;
-  padding: 10px 0;
   border-radius: 5px;
   border: 1px solid rgb(23, 170, 23);
   background-color:  rgb(23, 170, 23);
+}
+
+.submit_button a{
   text-decoration: none;
+  font-size: larger;
+  font-weight: 500;
+  color: white;
+  padding: 10px 0;
 }
